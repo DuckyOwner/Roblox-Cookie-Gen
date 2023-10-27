@@ -1,0 +1,3 @@
+Download doesn't work?, it may be that you don't have Python yet. Download the latest version here: https://www.python.org/downloads/release/python-3115/ then scroll down and press windows installer 64 bit or 32 bit if you on 32 bit ur must download it on 32 bit
+
+and if it doesnt work eighter, just dm 7x7l on discord

@@ -1,0 +1,1 @@
+if it doesnt come on hits.txt it means the code is broken or the cookie doesnt exist.
